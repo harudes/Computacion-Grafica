@@ -1,0 +1,5 @@
+﻿  OpenGL Class1.cpp
+OpenGL Class1.obj : error LNK2019: símbolo externo _glfwInit sin resolver al que se hace referencia en la función _main
+OpenGL Class1.obj : error LNK2019: símbolo externo _glfwWindowHint sin resolver al que se hace referencia en la función _main
+C:\Users\luisf\Desktop\Gráfica\OpenGL Class1\\..\GLFW\lib-vc2017\glfw3.lib : warning LNK4272: el tipo de máquina de biblioteca 'x64' está en conflicto con el tipo de máquina de destino 'x86'
+C:\Users\luisf\Desktop\Gráfica\OpenGL Class1\Debug\OpenGL Class1.exe : fatal error LNK1120: 2 externos sin resolver
