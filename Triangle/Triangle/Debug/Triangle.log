@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\luisf\desktop\opengl test\triangle\triangle\main.cpp(71): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\luisf\desktop\opengl test\triangle\triangle\main.cpp(72): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\luisf\desktop\opengl test\triangle\triangle\main.cpp(73): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\luisf\desktop\opengl test\triangle\triangle\main.cpp(74): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Triangle.vcxproj -> C:\Users\luisf\Desktop\OpenGL Test\Triangle\Debug\Triangle.exe
